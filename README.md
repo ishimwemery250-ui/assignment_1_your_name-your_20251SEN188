@@ -15,5 +15,4 @@ JOIN queries are in `screenshots/join queries`
           - - number customer orders
           -  - calculate running revenue
           -  - find the number of days between orders
-## Challenge The part I found more difficult was understanding CTEs and window functions. I understood them better by running each query step by step and checking the result.
  ## How to run Open PostgreSQL or pgAdmin. Run the table creation first, then insert the data. After that, run the JOIN, CTE, and window function queries and check the results
