@@ -1,4 +1,4 @@
-# assignment_1_your_name-your_20251SEN188
+# assignment_1_Ishimwe-Emery_20251SEN188
 # Assignment 1 - SQL
 **Name:** Ishimwe Emery 
 **Student ID:** 20251SEN188 
